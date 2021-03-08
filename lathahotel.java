@@ -123,6 +123,8 @@ public class Hotel
     
     
     System.out.println("bill is"+sum);
+    System.out.println("******THANK YOU************");
+
     }    
     
 public static void main(String[] args) 
